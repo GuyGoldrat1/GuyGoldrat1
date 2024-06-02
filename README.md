@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">📫 How to reach me GuyGoldrat@gmail.com</p>
+<p align="left">📫 How to reach me <a href="GuyGoldrat@gmail.com">GuyGoldrat@gmail.com</a>
+</p>
 
 ###
 
